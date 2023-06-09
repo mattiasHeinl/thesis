@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.23)  9 JUN 2023 09:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.23)  9 JUN 2023 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./version2tex.tex
-(version2tex.tex
+**./mapping.tex
+(mapping.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-12-17>
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -471,8 +471,8 @@ Proof Tree (bussproofs) style macros. Version 1.1.
 )
 \@quotelevel=\count400
 \@quotereset=\count401
- (version2tex.aux)
-\openout1 = `version2tex.aux'.
+ (mapping.aux)
+\openout1 = `mapping.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -524,166 +524,81 @@ File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `version2tex.bcf'.
+\openout3 = `mapping.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'version2tex.bbl' found.
- (version2tex.bbl)
+Package biblatex Info: ... file 'mapping.bbl' found.
+ (mapping.bbl)
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 
 
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
 
 
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-
- []
-
-
-Overfull \hbox (25.33478pt too wide) in paragraph at lines 40--42
-\OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
- \OMS/cmsy/m/n/10 ^ \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 select[]\OT1/cmr/m/n/10 
-(\OML/cmm/m/it/10 h; x; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE \OMS/c
-msy/m/n/10 ^ \OML/cmm/m/it/10 instanceA\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/
-cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE\OT1/cmr/m/n/10 )) \OMS/cmsy/m/n/10 !
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
-
- []
-
 [1
 
 {C:/Users/heinl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (20.19229pt too wide) in paragraph at lines 43--46
-\OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
- \OMS/cmsy/m/n/10 ^ \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 select[]\OT1/cmr/m/n/10 
-(\OML/cmm/m/it/10 h; x; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE \OMS/c
-msy/m/n/10 ^ \OML/cmm/m/it/10 arrayStoreValid\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
-o; x\OT1/cmr/m/n/10 ))) \OMS/cmsy/m/n/10 !
+Overfull \hbox (11.6851pt too wide) in paragraph at lines 54--55
+[]\OT1/cmr/m/n/10 This means that we first gen-er-ate a $\OML/cmm/m/it/10 defau
+lt[]A$ \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 default[]A:i \OT1/cmr/m/n/10 == 
+\OML/cmm/m/it/10 default[]uint$\OT1/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
-
+Overfull \hbox (16.07018pt too wide) in paragraph at lines 54--55
+\OML/cmm/m/it/10 default[]B$ \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 default[]B
+:a \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 default[]A$\OT1/cmr/m/n/10 , and $\OML/cm
+m/m/it/10 default[]map$ \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 default[]m \OT1
+/cmr/m/n/10 ==
  []
 
-
-Overfull \hbox (16.71446pt too wide) in paragraph at lines 47--49
-\OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
- \OMS/cmsy/m/n/10 ^ 8\OML/cmm/m/it/10 ov\OT1/cmr/m/n/10 ; \OMS/cmsy/m/n/10 8\OM
-L/cmm/m/it/10 fv\OT1/cmr/m/n/10 ; (\OML/cmm/m/it/10 "\OT1/cmr/m/n/10 (\OML/cmm/
-m/it/10 ov; fv; y\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 select[]
-\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h; ov; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/
-it/10 TRUE\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 !
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-
- []
-
+[2]
 \myBox1=\box70
 \myScoreStart1=\dimen167
 \myCenter1=\dimen168
 \myScoreEnd1=\dimen169
 
-Overfull \hbox (52.82289pt too wide) in paragraph at lines 68--72
+Overfull \hbox (75.33557pt too wide) in paragraph at lines 90--94
  [] 
  []
 
-[2]
-Overfull \hbox (5.38055pt too wide) in paragraph at lines 99--103
- [] 
- []
-
-[3]
-Overfull \hbox (1.61168pt too wide) in paragraph at lines 119--120
-\OT1/cmr/m/n/10 rays have the length given by the type, there are ad-di-tional 
-con-sid-er-a-tions. 
- []
-
-[4]
-Overfull \hbox (53.5589pt too wide) in paragraph at lines 168--176
- [] 
- []
-
-[5] (version2tex.aux)
-Package logreq Info: Writing requests to 'version2tex.run.xml'.
-\openout1 = `version2tex.run.xml'.
+[3] [4] (mapping.aux)
+Package logreq Info: Writing requests to 'mapping.run.xml'.
+\openout1 = `mapping.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11257 strings out of 476406
- 212399 string characters out of 2789566
- 1860787 words of memory out of 3000000
- 31501 multiletter control sequences out of 15000+600000
- 520547 words of font info for 64 fonts, out of 8000000 for 9000
+ 11254 strings out of 476406
+ 212310 string characters out of 2789566
+ 1858787 words of memory out of 3000000
+ 31498 multiletter control sequences out of 15000+600000
+ 520496 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,68p,1060b,805s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,7n,68p,1242b,805s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbxti10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/heinl/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/heinl/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/heinl/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/heinl/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/User
-s/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy7.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmti10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/symbols/msam10.pfb><C:/Users/heinl/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on version2tex.pdf (5 pages, 182312 bytes).
+cmbx10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/heinl/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/heinl/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/heinl/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/heinl/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/h
+einl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
+10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/symbols/msam10.pfb>
+Output written on mapping.pdf (4 pages, 144531 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

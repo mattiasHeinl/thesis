@@ -17,7 +17,24 @@
 \date{}
 
 \begin{document}
-	
+	% notes: don't use mathmode in text for formulas like wellformed.
+	% need more context to understand result.
+	% terminology, be clear with words like memory which has other meanings. for example use "memory model". 
+	% type hierarchy. In theory use solidity version even if implementation is different (perhaps describe changes). More generally use solidity for basis of theory. In the implementation could use Schema Variables for taclets to avoid hierarchy in implementation (reference and primitive) of conditions.
+	% TODO narrowSelectType and narrowSelectArrayType discuss with Richard
+	% perhaps we won't need to talk about subtyping
+	% TODO what kind of subtyping exists in solidity. 
+	% Perhaps clarify what dynamic allocation is in solidity, give examples. 
+	% May not need LocSet since assignable is different. 
+	% TODO look up whether we need locset at all
+	% Objects in solidity? Either clarify that it is structs/array (mapping also included in storage?). Also possibly change rules like wellFormedStorePrimitive, perhaps use https://www.developer.com/languages/solidity-data-types/ as basis.
+	% should array/struct be subtypes of References. 
+	% should we have two types for structs whether they are in storage or memory? could help the logic since they are separate. would we need two separate any?
+	% "Thus the changes required to the heap are minimal", refers to key and solidikey. 
+	% Special consideration for arr, different name. fieldOf() instead to match solidity style of casting types. 
+	% "new" is technically not used for structs but used for presentation, perhaps better to match solidity's syntax
+	% 
+	% 
 	\maketitle
 	
 	\section{Heap/memory}
