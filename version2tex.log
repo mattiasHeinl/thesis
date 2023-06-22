@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.23)  9 JUN 2023 09:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.23)  22 JUN 2023 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,41 +468,63 @@ Proof Tree (bussproofs) style macros. Version 1.1.
 \htRRRbox=\dimen162
 \htAbox=\dimen163
 \htCbox=\dimen164
+) (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count400
+\lst@gtempboxa=\box69
+\lst@token=\toks23
+\lst@length=\count401
+\lst@currlwidth=\dimen165
+\lst@column=\count402
+\lst@pos=\count403
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count404
+\lst@lineno=\count405
+\lst@maxwidth=\dimen168
+(C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count406
+\lst@skipnumbers=\count407
+\lst@framebox=\box70
 )
-\@quotelevel=\count400
-\@quotereset=\count401
- (version2tex.aux)
+(C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\@quotelevel=\count408
+\@quotereset=\count409
+(version2tex.aux)
 \openout1 = `version2tex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count402
-\scratchdimen=\dimen165
-\scratchbox=\box69
-\nofMPsegments=\count403
-\nofMParguments=\count404
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count405
-\MPscratchDim=\dimen166
-\MPnumerator=\count406
-\makeMPintoPDFobject=\count407
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count410
+\scratchdimen=\dimen169
+\scratchbox=\box71
+\nofMPsegments=\count411
+\nofMParguments=\count412
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count413
+\MPscratchDim=\dimen170
+\MPnumerator=\count414
+\makeMPintoPDFobject=\count415
+\everyMPtoPDFconversion=\toks25
 )
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -529,41 +551,54 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'version2tex.bbl' found.
  (version2tex.bbl)
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+Package biblatex Info: Reference section=0 on input line 21.
+Package biblatex Info: Reference segment=0 on input line 21.
+\c@lstlisting=\count416
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
 
 
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
 
 
 (C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+4.
+
+(C:\Users\heinl\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
+
+[1
+
+{C:/Users/heinl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-
- []
-
-
-Overfull \hbox (25.33478pt too wide) in paragraph at lines 40--42
+Overfull \hbox (25.33478pt too wide) in paragraph at lines 90--92
 \OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
  \OMS/cmsy/m/n/10 ^ \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 select[]\OT1/cmr/m/n/10 
 (\OML/cmm/m/it/10 h; x; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE \OMS/c
@@ -572,14 +607,12 @@ cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE\OT1/cmr/m/n/10 )) \OMS/cmsy/m/n/10 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
-[1
 
-{C:/Users/heinl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (20.19229pt too wide) in paragraph at lines 43--46
+Overfull \hbox (20.19229pt too wide) in paragraph at lines 93--96
 \OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
  \OMS/cmsy/m/n/10 ^ \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 select[]\OT1/cmr/m/n/10 
 (\OML/cmm/m/it/10 h; x; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE \OMS/c
@@ -588,12 +621,12 @@ o; x\OT1/cmr/m/n/10 ))) \OMS/cmsy/m/n/10 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
 
-Overfull \hbox (16.71446pt too wide) in paragraph at lines 47--49
+Overfull \hbox (16.71446pt too wide) in paragraph at lines 97--99
 \OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
  \OMS/cmsy/m/n/10 ^ 8\OML/cmm/m/it/10 ov\OT1/cmr/m/n/10 ; \OMS/cmsy/m/n/10 8\OM
 L/cmm/m/it/10 fv\OT1/cmr/m/n/10 ; (\OML/cmm/m/it/10 "\OT1/cmr/m/n/10 (\OML/cmm/
@@ -603,87 +636,84 @@ it/10 TRUE\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
- []
-
-\myBox1=\box70
-\myScoreStart1=\dimen167
-\myCenter1=\dimen168
-\myScoreEnd1=\dimen169
-
-Overfull \hbox (52.82289pt too wide) in paragraph at lines 68--72
- [] 
- []
-
-[2]
-Overfull \hbox (5.38055pt too wide) in paragraph at lines 99--103
- [] 
  []
 
 [3]
-Overfull \hbox (1.61168pt too wide) in paragraph at lines 119--120
-\OT1/cmr/m/n/10 rays have the length given by the type, there are ad-di-tional 
-con-sid-er-a-tions. 
- []
+\myBox1=\box72
+\myScoreStart1=\dimen171
+\myCenter1=\dimen172
+\myScoreEnd1=\dimen173
 
-[4]
-Overfull \hbox (53.5589pt too wide) in paragraph at lines 168--176
+Overfull \hbox (100.31584pt too wide) in paragraph at lines 138--142
  [] 
  []
 
-[5] (version2tex.aux)
+[4] [5]
+Overfull \hbox (29.42503pt too wide) in paragraph at lines 201--205
+ [] 
+ []
+
+[6] [7]
+Overfull \hbox (53.5589pt too wide) in paragraph at lines 277--285
+ [] 
+ []
+
+[8] (version2tex.aux)
 Package logreq Info: Writing requests to 'version2tex.run.xml'.
 \openout1 = `version2tex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11257 strings out of 476406
- 212399 string characters out of 2789566
- 1860787 words of memory out of 3000000
- 31501 multiletter control sequences out of 15000+600000
- 520547 words of font info for 64 fonts, out of 8000000 for 9000
+ 12900 strings out of 476406
+ 234561 string characters out of 2789566
+ 1868787 words of memory out of 3000000
+ 33128 multiletter control sequences out of 15000+600000
+ 520855 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,68p,1060b,805s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,8n,68p,1060b,1520s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbxti10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/heinl/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/heinl/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/heinl/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/heinl/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/User
-s/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy7.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmti10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/symbols/msam10.pfb><C:/Users/heinl/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on version2tex.pdf (5 pages, 182312 bytes).
+cmbx10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbxti10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/heinl/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/heinl/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/heinl/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/heinl
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb
+><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr5.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/heinl/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/heinl/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on version2tex.pdf (8 pages, 212884 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
