@@ -80,12 +80,6 @@
 	
 	\textit{\textbf{onlyCreatedObjectsAreInLocSets}} \\
 	$wellformed(h) \land \varepsilon (o2, f2,select_{LocSet}(h,o, f)) \to  select_{boolen}(h,o2, created) = TRUE $\\
-		
-	\textit{\textbf{narrowSelectType}},  where type of f is A and $A \sqsubseteq B$ \\
-	$wellFormed(h) \land select_B(h,o, f) \to select_A(h,o, f)$\\
-		
-	\textit{\textbf{narrowSelectArrayType}},  where type of $o$ is $A[]$ and $A \sqsubseteq B$  \\
-	$wellFormed(h) \land select_B(h,o,arr(i)) \to select_A(h,o,arr(i))$\\
 	
 	\textit{\textbf{wellFormedStoreObject}}, where type of f is A \\
 	$wellFormed(h) \land ((select_{boolean}(h, x, created) = TRUE \land instanceA(x) = TRUE)) \to wellFormed(store(h,o, f, x))$\\
@@ -109,6 +103,18 @@
 	
 	\textit{\textbf{wellFormedAnon}} \\
 	$wellFormed(h)\land wellFormed(h2) \to wellFormed(anon(h, y,h2))$\\
+	
+	\subsection{Subtyping}
+	In SolidiKeY we do not at this point in the project need subtyping from Solidity and thus wellformdness can ignore this as well. For example in the types uint8, uint16, etc are all represented as mathematical integers in SolidiKeY, so there is no subtype. At this point there is no need for subtyping rules in wellformedness. If this were to change the the following rules could be introduced. 
+	
+	\textit{\textbf{narrowSelectType}},  where type of f is A and $A \sqsubseteq B$ \\
+	$wellFormed(h) \land select_B(h,o, f) \to select_A(h,o, f)$\\
+	
+	\textit{\textbf{narrowSelectArrayType}},  where type of $o$ is $A[]$ and $A \sqsubseteq B$  \\
+	$wellFormed(h) \land select_B(h,o,arr(i)) \to select_A(h,o,arr(i))$\\
+	
+	The rules \textit{\textbf{wellFormedStorePrimitive}} and \textit{\textbf{wellFormedStorePrimitiveArray}} maintain the subtyping conditions, for the sake of continuity even if at this point $B \sqsubseteq A$ is equivalent to $B = A$. 
+	
 	
 	\section{Allocation} \label{alloc}
 	In order for a variable in the memory model to be correctly uniquely identifiable, space/symbol must be allocated for it. Based the original rules in the KeY book page 89 (chapter 3.6.6.3) the following are changes made to the rules. Note that only references require this sort of allocation. 

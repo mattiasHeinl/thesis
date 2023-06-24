@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.23)  22 JUN 2023 09:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.23)  24 JUN 2023 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -588,17 +588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--83
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
-
- []
-
-
-Overfull \hbox (25.33478pt too wide) in paragraph at lines 90--92
+Overfull \hbox (25.33478pt too wide) in paragraph at lines 84--86
 \OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
  \OMS/cmsy/m/n/10 ^ \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 select[]\OT1/cmr/m/n/10 
 (\OML/cmm/m/it/10 h; x; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE \OMS/c
@@ -607,12 +597,12 @@ cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE\OT1/cmr/m/n/10 )) \OMS/cmsy/m/n/10 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
-
-Overfull \hbox (20.19229pt too wide) in paragraph at lines 93--96
+[2]
+Overfull \hbox (20.19229pt too wide) in paragraph at lines 87--90
 \OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
  \OMS/cmsy/m/n/10 ^ \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 select[]\OT1/cmr/m/n/10 
 (\OML/cmm/m/it/10 h; x; created\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 TRUE \OMS/c
@@ -621,12 +611,12 @@ o; x\OT1/cmr/m/n/10 ))) \OMS/cmsy/m/n/10 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
 
 
-Overfull \hbox (16.71446pt too wide) in paragraph at lines 97--99
+Overfull \hbox (16.71446pt too wide) in paragraph at lines 91--93
 \OML/cmm/m/it/10 wellFormed\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )
  \OMS/cmsy/m/n/10 ^ 8\OML/cmm/m/it/10 ov\OT1/cmr/m/n/10 ; \OMS/cmsy/m/n/10 8\OM
 L/cmm/m/it/10 fv\OT1/cmr/m/n/10 ; (\OML/cmm/m/it/10 "\OT1/cmr/m/n/10 (\OML/cmm/
@@ -636,12 +626,22 @@ it/10 TRUE\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
@@ -651,12 +651,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--106
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
@@ -666,21 +666,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--112
 \myCenter1=\dimen172
 \myScoreEnd1=\dimen173
 
-Overfull \hbox (100.31584pt too wide) in paragraph at lines 138--142
+Overfull \hbox (100.31584pt too wide) in paragraph at lines 144--148
  [] 
  []
 
 [4] [5]
-Overfull \hbox (29.42503pt too wide) in paragraph at lines 201--205
+Overfull \hbox (29.42503pt too wide) in paragraph at lines 207--211
  [] 
  []
 
 [6] [7]
-Overfull \hbox (53.5589pt too wide) in paragraph at lines 277--285
+Overfull \hbox (53.5589pt too wide) in paragraph at lines 283--291
  [] 
  []
 
-[8] (version2tex.aux)
+[8] [9] (version2tex.aux)
 Package logreq Info: Writing requests to 'version2tex.run.xml'.
 \openout1 = `version2tex.run.xml'.
 
@@ -688,7 +688,7 @@ Package logreq Info: Writing requests to 'version2tex.run.xml'.
 Here is how much of TeX's memory you used:
  12900 strings out of 476406
  234561 string characters out of 2789566
- 1868787 words of memory out of 3000000
+ 1866787 words of memory out of 3000000
  33128 multiletter control sequences out of 15000+600000
  520855 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -711,9 +711,9 @@ e1/public/amsfonts/cm/cmsy7.pfb><C:/Users/heinl/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/heinl/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/heinl/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on version2tex.pdf (8 pages, 212884 bytes).
+Output written on version2tex.pdf (9 pages, 214730 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
